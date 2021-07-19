@@ -25,7 +25,7 @@ function draw(){
 background('#969A97');
 fill(250, 2, 3);
 square(noseX, noseY, difference);
-circle(leftWristX, leftWristX, 5);
+
 }
 
 function gotPoses(results){
